@@ -16,8 +16,8 @@ Final results
 
 # CODING CHALLENGE
 Change the layout so that it looks good in both horizontal and vertical orientations:
-![Screenshot tugas vertikal1](images/image6.png)
-![Screenshot tugas vertikal2](images/image7.png)
+![Screenshot tugas vertikal1](images/image6.jpeg)
+![Screenshot tugas vertikal2](images/image7.jpeg)
 
-![Screenshot tugas horizontal1](images/image8.png)
-![Screenshot tugas horizontal2](images/image9.png)
+![Screenshot tugas horizontal1](images/image8.jpeg)
+![Screenshot tugas horizontal2](images/image9.jpeg)
