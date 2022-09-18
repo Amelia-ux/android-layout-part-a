@@ -14,14 +14,26 @@ match_constraint digunakan agar tampilan diperluas selebar mungkin agar menyentu
 
 ## Final results
 
+Toast button
+
 ![Screenshot hasil running](images/image4.jpeg)
+
+Count button
+
 ![Screenshot hasil counting](images/image5.jpeg)
 
 # CODING CHALLENGE
 Folder: Hello Toast Challenge
 ## Change the layout so that it looks good in both horizontal and vertical orientations:
+Toast button
+
 ![Screenshot tugas vertikal1](images/image6.jpeg)
+
+Count button
+
 ![Screenshot tugas vertikal2](images/image7.jpeg)
 
+Toast button
 ![Screenshot tugas horizontal1](images/image8.jpeg)
+Count button
 ![Screenshot tugas horizontal2](images/image9.jpeg)
